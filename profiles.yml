@@ -1,13 +1,13 @@
 Airbnb_dbt:
   outputs:
     dev:
-      account: VYIIKYM-GN15832
+      account: SNBYTEY-EO39087
       database: VIKRAM_DBT
       password: Training123456$
       role: ACCOUNTADMIN
       schema: dbt_target
       threads: 2
       type: snowflake
-      user: aug2026learn
+      user: sep2026learn
       warehouse: DBT_LARGE_WH
   target: dev
